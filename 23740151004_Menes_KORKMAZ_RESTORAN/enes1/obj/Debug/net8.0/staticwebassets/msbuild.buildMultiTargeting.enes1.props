@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\enes1.props" />
+</Project>
